@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ign:home|Door43 (ign)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ign|d43-ign repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ign/archive/master.zip|d43-ign.zip]]
+
+**Recent Changes**
+{{changes>ns = ign}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ign|Ethnologue data]]
+
